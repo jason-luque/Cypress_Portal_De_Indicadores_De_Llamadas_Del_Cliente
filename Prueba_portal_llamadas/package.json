@@ -1,0 +1,18 @@
+{
+  "name": "prueba_portal_llamadas",
+  "version": "1.0.0",
+  "description": "Pruebas portal de llamadas de clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "keywords": [
+    "Prueba",
+    "cypress"
+  ],
+  "author": "Jason Raul Luque Medina",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.2.0"
+  }
+}
